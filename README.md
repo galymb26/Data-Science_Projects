@@ -1,7 +1,7 @@
 # Data-Science_Projects
-Курсовые проекты по Data Science с практической реализацией
+ проекты по Data Science с практической реализацией
 
-This repository contains projects completed as part of the Yandex.Practicum Data Science Specialist course.
+This repository contains projects completed as part of the Data Science Sphere.
 
 | Название проекта | Описание | Используемые библиотеки | Сфера деятельности |
 |--------------|-------------|----------------|-------|
